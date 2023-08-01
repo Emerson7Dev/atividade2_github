@@ -1,0 +1,2 @@
+O que é o README
+Ele é basicamente um arquivo de texto que pode ser escrito a partir de tags HTML ou Markdown. Pessoalmente costumo misturar os dois pois usando HTML consigo centralizar os elementos. Neste artigo não vou focar muito em como utilizar essas tags e sim na estrutura da documentação em sí. Se quiserem saber como utilizá-las recomendo este artigo excelente do Raul Esteves.
